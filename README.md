@@ -7,7 +7,7 @@ Este proyecto se enfoca en predecir la gravedad de los accidentes de tráfico en
 - **Origen de los Datos:** Los datos fueron obtenidos de data.gov y corresponden a los accidentes de tráfico registrados en el condado de Montgomery, Maryland.
   
 - **Procesamiento de Datos:**
-  - Se realizó una exhaustiva limpieza de datos que incluyó la integración de datos, eliminación de variables irrelevantes y redundantes, manejo de valores nulos y atípicos.
+  - Se realizó una limpieza de datos que incluyó la integración de datos, eliminación de variables irrelevantes y redundantes, manejo de valores nulos y atípicos.
   - Se llevó a cabo un análisis exploratorio de datos (EDA) para comprender mejor las características del conjunto de datos.
   - Se exploraron las correlaciones entre las variables para identificar patrones significativos.
 
